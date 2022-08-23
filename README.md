@@ -1,2 +1,2 @@
 # license_manager
-License Manager Package
+License Manager Sub-Package for TestDrive
